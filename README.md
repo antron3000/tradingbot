@@ -1,2 +1,2 @@
 # tradingbot
-A bot to make simple trades on honeyswap
+A bot to make simple trades on [honeyswap](https://honeyswap.org/) 
